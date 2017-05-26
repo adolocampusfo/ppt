@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ borrar_pantalla()
+comment1.params=
+comment1.target=void\ tecla_para_continuar()
+comment2.params=fch\ dias
+comment2.target=java.lang.String\ sumar_fechas_dias(java.util.Date,\ int)
+comment3.params=dia_actual\ tipo_sorteo
+comment3.target=java.lang.String\ dia_del_sorteo(java.util.Date,\ int)
+comment4.params=
+comment4.target=void\ primitiva()
+comment5.params=
+comment5.target=void\ quiniela()
+comment6.params=
+comment6.target=void\ loteria_nacional()
+numComments=7
